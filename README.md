@@ -5,8 +5,8 @@ This study focuses on the time series classification of multivariate force-motio
 Two Fundamental Manual therapy motion sequences (Linear "Strumming" motion and Curvilinear "J-Stroke" motion) are labelled and classified to develop an AI guided training tool for manual therapy practice. 
 
 There are two folders:
-Clinical Data folder - contains the DataSet (all the raw data files as collected from 5 experienced therapists).
-Data Labeling Validation folder - contains MATLAB scripts to graphically visualize the data and validate with motion animation tools introduced in the scripts.
+1) Clinical Data folder - contains the DataSet (all the raw data files as collected from 5 experienced therapists).
+2) Data Labeling Validation folder - contains MATLAB scripts to graphically visualize the data and validate with motion animation tools introduced in the scripts.
 
 The Deep Learning models developed to train and test the Dataset is defined in the MATLAB scripts
 InterClinicanDataOrgRNNTrain.m  - Organizes and segregates the complete dataset of motion patterns collected from 5 experienced clinicians, investigates the combination of features to be trained and tested for achieving higher classification accuracy using a LSTM-RNN architecture.
