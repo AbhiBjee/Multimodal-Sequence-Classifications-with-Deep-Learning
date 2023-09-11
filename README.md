@@ -1,5 +1,5 @@
 # Multimodal-Sequence-Classifications-with-Deep-Learning
-This study investigates identification of best feature set combinations from multimodal time series classification of reaction force vectors and IMU sensor data collected from Force based intrumented hand manipulation motions used in preclinical digital manual therapy (instrument assisted physiotherapy based massage) and Quatifiable Soft Tissue Manipulation.
+This study investigates identification of best feature set combinations from multimodal time series classification of reaction force vectors and IMU sensor data collected from Force based intrumented hand manipulation motions used in preclinical digital manual therapy (instrument assisted physiotherapy based massage) and Quantifiable Soft Tissue Manipulation.
 
 This study focuses on the time series classification of multivariate force-motion manipulation sequences using deep learning models especially (LSTM-RNN architectures).
 Two Fundamental Manual therapy motion sequences (Linear "Strumming" motion and Curvilinear "J-Stroke" motion) are labelled and classified to develop an AI guided training tool for manual therapy practice. 
